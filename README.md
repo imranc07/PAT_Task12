@@ -1,4 +1,4 @@
-# Data Driven Test Framework (DDF) using Page Object Model
+# Data Driven Test Framework (DDF) using Page Object Model (POM)
 
 Website Link: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
 
